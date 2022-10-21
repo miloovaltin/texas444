@@ -1,17 +1,16 @@
-
 {
-"name": "texas444",
-"theme": "texas444",
-"version": "7.7.3",
-"description": "texas444 ทางเข้าเว็บไซต์แทงบอลเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
-"keywords": [
-"texas444",
-"texas444 เครดิตฟรี",
-"texas444 ทางเข้า"
-],
-"repository": "https://github.com/miloovaltin/texas444",
-"license": "MIT",
-"engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+  "name": "texas444",
+  "theme": "texas444",
+  "version": "7.8.0",
+  "description": "texas444 ทางเข้าเว็บไซต์แทงบอลเว็บตรง สมาชิกเยอะ ให้เครดิตฟรี",
+  "keywords": [
+    "texas444",
+    "texas444 เครดิตฟรี",
+    "texas444 ทางเข้า"
+  ],
+  "repository": "https://github.com/miloovaltin/texas444",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
